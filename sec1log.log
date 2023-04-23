@@ -1,0 +1,28 @@
+2023-02-16 17:29:45,524 root ERROR errror errorred!
+2023-02-16 17:29:45,524 root DEBUG debug yur code!
+2023-02-16 17:29:45,524 root WARNING im warned
+2023-02-16 17:29:45,524 root ERROR basic error
+2023-02-16 17:29:51,182 root ERROR errror errorred!
+2023-02-16 17:29:51,183 root DEBUG debug yur code!
+2023-02-16 17:29:51,183 root WARNING im warned
+2023-02-16 17:29:51,183 root ERROR basic error
+2023-02-16 17:29:52,731 root INFO we are inside loop just now
+2023-02-16 17:29:52,731 root INFO checkign if int inside the main list
+2023-02-16 17:29:52,731 root INFO we are inside loop just now
+2023-02-16 17:29:52,732 root INFO checkign if int inside the main list
+2023-02-16 17:29:52,732 root INFO we are inside loop just now
+2023-02-16 17:29:52,732 root INFO checkign if int inside the main list
+2023-02-16 17:29:52,732 root INFO we are inside loop just now
+2023-02-16 17:29:52,732 root INFO checkign if int inside the main list
+2023-02-16 17:29:52,732 root INFO we are inside loop just now
+2023-02-16 17:29:52,732 root INFO checking for if a it is a list?
+2023-02-16 17:29:52,732 root INFO indide 2 ifs and checking for int inside the list
+2023-02-16 17:29:52,732 root INFO indide 2 ifs and checking for int inside the list
+2023-02-16 17:29:52,732 root INFO indide 2 ifs and checking for int inside the list
+2023-02-16 17:29:52,732 root INFO indide 2 ifs and checking for int inside the list
+2023-02-16 17:29:52,732 root INFO checking if inside list here str
+2023-02-16 17:29:52,732 root INFO we are inside loop just now
+2023-02-16 17:29:52,732 root INFO checking if str inside the main lsut
+2023-02-16 17:29:52,732 root INFO we are inside loop just now
+2023-02-16 17:29:52,732 root INFO we are inside loop just now
+2023-02-16 17:29:52,733 root INFO checking if str inside the main lsut

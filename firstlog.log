@@ -1,0 +1,21 @@
+INFO:root:hey tis is my first log
+INFO:root:hey tis is my first log
+INFO:root:hey sec loggo
+INFO:root:hey tis is my first log
+INFO:root:hey sec loggo
+INFO:root:hey tis is my first log
+INFO:root:hey sec loggo
+WARNING:root:heya here goes a warning for you unnececarry step
+WARNING:root:heya here goes a warning for you unnececarry step
+ERROR:root:error ahead
+WARNING:root:heya here goes a warning for you unnececarry step
+ERROR:root:error ahead
+CRITICAL:root:hola its a critical isuue to resolve
+WARNING:root:heya here goes a warning for you unnececarry step
+ERROR:root:error ahead
+CRITICAL:root:hola its a critical isuue to resolve
+WARNING:root:heya here goes a warning for you unnececarry step
+ERROR:root:error ahead
+CRITICAL:root:hola its a critical isuue to resolve
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 5903559a-5e79-4305-9d05-81f2e4c41abd
